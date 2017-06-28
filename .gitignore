@@ -1,0 +1,6 @@
+*.pyc
+.idea/*
+__pycache__
+camelidus_env
+db.sqlite3
+.DS_Store
